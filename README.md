@@ -8,7 +8,7 @@ En este repositorio, encontrarás todos los materiales relacionados con la asign
 ## Contenido
 
 ### Notebooks de Teoría
-En la carpeta [Teoria](/Teoria), encontrarás todos los notebooks que abarcan los fundamentos teóricos de Procesamiento de Imágenes Médicas con Inteligencia Artificial. Estos documentos proporcionan una base sólida para comprender los conceptos clave de la asignatura.
+En la carpeta [Teoria] encontrarás todos los notebooks que abarcan los fundamentos teóricos de Procesamiento de Imágenes Médicas con Inteligencia Artificial. Estos documentos proporcionan una base sólida para comprender los conceptos clave de la asignatura.
 
 ### Actividades Prácticas
 Estas actividades están diseñadas para fortalecer la comprensión y habilidades prácticas  en el procesamiento de imágenes médicas.
