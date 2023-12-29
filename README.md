@@ -13,13 +13,13 @@ En la carpeta [Teoria] encontrarás todos los notebooks que abarcan los fundamen
 ### Actividades Prácticas
 Estas actividades están diseñadas para fortalecer la comprensión y habilidades prácticas  en el procesamiento de imágenes médicas.
 
-- [Actividad 1: Consiste en contar el número de círculos en una imagen a color mediante procesamiento de imágenes. Incluye la conversión a escala de grises, la umbralización de la imagen, la aplicación de morfología matemática y la detección de círculos.
-- [Actividad 2: La actividad implica la aplicación de dos modelos de detección de objetos, fasterrcnn_resnet50_fpn y retinanet_resnet50_fpn, para identificar y delinear cráteres en imágenes tomadas de la superficie de Marte y la Luna. Estos modelos son arquitecturas de redes neuronales convolucionales entrenadas previamente que han demostrado ser efectivas en tareas de detección de objetos en imágenes.
+- Actividad 1: Consiste en contar el número de círculos en una imagen a color mediante procesamiento de imágenes. Incluye la conversión a escala de grises, la umbralización de la imagen, la aplicación de morfología matemática y la detección de círculos.
+- Actividad 2: La actividad implica la aplicación de dos modelos de detección de objetos, fasterrcnn_resnet50_fpn y retinanet_resnet50_fpn, para identificar y delinear cráteres en imágenes tomadas de la superficie de Marte y la Luna. Estos modelos son arquitecturas de redes neuronales convolucionales entrenadas previamente que han demostrado ser efectivas en tareas de detección de objetos en imágenes.
 
 ### Trabajo Final
 Este proyecto nos permitió aplicar de manera integral los conocimientos adquiridos a lo largo del curso en un proyecto más extenso y enfocado.
 
-- [Trabajo Final: se enfoca en la aplicación de la arquitectura preexistente de la red neuronal VGG16 para abordar la diferenciación entre neumonía, COVID-19 y pulmones normales. El propósito principal es mejorar la precisión en la identificación de estos tres tipos de imágenes pulmonares, contribuyendo así a un diagnóstico más eficiente y preciso de enfermedades pulmonares.
+- Trabajo Final: se enfoca en la aplicación de la arquitectura preexistente de la red neuronal VGG16 para abordar la diferenciación entre neumonía, COVID-19 y pulmones normales. El propósito principal es mejorar la precisión en la identificación de estos tres tipos de imágenes pulmonares, contribuyendo así a un diagnóstico más eficiente y preciso de enfermedades pulmonares.
 
 ### Competición
 En esta competición, vamos a afrontar un problema real, patrocinado por una competición de Kaggle: Data Science Bowl 2018, con un premio de 100.000$.
